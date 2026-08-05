@@ -84,30 +84,31 @@
 
 <div align="center">
 
-<p align="center">
-  <span style="color: #58a6ff;">✨ ———— &nbsp;<b>S O U L &nbsp; & &nbsp; F R E E D O M</b> &nbsp; ———— ✨</span>
+<br/>
+
+<p style="font-family: 'Source Han Serif CN', 'Noto Serif SC', serif; font-size: 16px; line-height: 2.4; letter-spacing: 2px; color: #8b949e;">
+人一定要疯狂爱上什么东西，才不至于被这无趣的生活吞没。<br/>
+我们的肉身只需要很少的粮食就能活，而精神需要的是 <font color="#58a6ff"><b>山川、河流与自由</b></font>。
 </p>
 
-<p align="center" style="font-family: 'Noto Serif SC', 'Source Han Serif SC', serif; color: #c9d1d9; font-size: 15px; line-height: 2.3; letter-spacing: 2px;">
-人一定要疯狂爱上什么东西，才不至于被这无趣的生活吞没。<br/>
-我们的肉身只需要很少的粮食就能活，而精神需要的是<b>山川、河流与自由</b>。<br/>
-<br/>
-<i>怎可一生忙碌，只为喂养一副终将衰老的躯壳，</i><br/>
-<i>却从未善待过相伴至死的灵魂？</i><br/>
-<br/>
+<p style="font-family: 'Source Han Serif CN', 'Noto Serif SC', serif; font-size: 15px; line-height: 2.4; letter-spacing: 2px; color: #8b949e;">
+怎可一生忙碌，只为喂养一副终将衰老的躯壳，<br/>
+却从未善待过相伴至死的灵魂？
+</p>
+
+<p style="font-family: 'Source Han Serif CN', 'Noto Serif SC', serif; font-size: 15px; line-height: 2.4; letter-spacing: 2px; color: #c9d1d9;">
 别让琐碎磨平眼里的光，别让奔波耗尽心底的热，<br/>
 去爱清晨的风，去爱傍晚的云，<br/>
-<span style="background-color: #1f242c; padding: 3px 8px; border-radius: 4px; color: #7ee787;">去奔赴山海，去活成自己喜欢的模样。</span><br/>
-<br/>
-别困在鸡毛蒜皮里沉沦，别被世俗功利捆绑一生，<br/>
-灵魂总要靠一份热爱撑着。<br/>
-<br/>
-<span style="color: #ffa657;">别等到垂垂老矣，才惊觉这一生竟从未真正为自己活过。</span>
+<font color="#7ee787"><b>去奔赴山海，去活成自己喜欢的模样。</b></font>
 </p>
 
-<p align="center" style="color: #484f58; font-size: 12px; letter-spacing: 4px;">
-✦ ✦ ✦
+<p style="font-family: 'Source Han Serif CN', 'Noto Serif SC', serif; font-size: 15px; line-height: 2.4; letter-spacing: 2px; color: #8b949e;">
+别困在鸡毛蒜皮里沉沦，别被世俗功利捆绑一生，<br/>
+灵魂总要靠一份热爱撑着。<br/>
+<font color="#d2a8ff"><i>别等到垂垂老矣，才惊觉这一生竟从未真正为自己活过。</i></font>
 </p>
+
+<br/>
 
 </div>
 
