@@ -1,106 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=xddcode&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=xddcode&fontSize=85&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Architect;IoT+Platform+Builder;Open+Source+Creator;Developer+Tools+Enthusiast;Building+Simple+Solutions+for+Complex+Systems"/>
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Architect;IoT+Platform+Builder;Open+Source+Creator;Developer+Tools+Enthusiast;Building+Simple+Solutions+for+Complex+Systems"/>
 
-<br/>
-
-<a href="https://github.com/xddcode">
-<img src="https://komarev.com/ghpvc/?username=xddcode&style=flat-square&color=blue"/>
-</a>
+  <p align="center">
+    <a href="https://github.com/xddcode">
+      <img src="https://komarev.com/ghpvc/?username=xddcode&style=flat-square&color=2188ff&label=Profile+Views"/>
+    </a>
+  </p>
 
 </div>
 
-# 🛠 Tech Stack
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-
-<img src="https://img.shields.io/badge/Java-21-red?style=for-the-badge&logo=openjdk"/>
-
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust"/>
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+#### Languages & Frameworks
+<img src="https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+#### Industrial IoT & Data Architecture
+<img src="https://img.shields.io/badge/MQTT-660099?style=for-the-badge&logo=hivemq&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMQX-00A652?style=for-the-badge&logo=emqx&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs"/>
+<br/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+#### Infrastructure & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
+<br/>
 
-<br/><br/>
-
-### Infrastructure & Data
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
-
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka"/>
-
-<img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/EMQX-FF6600?style=for-the-badge"/>
-
-<br/><br/>
-
-### Cloud Native & Tools
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<br/><br/>
-
-### AI Engineering
-
-<img src="https://img.shields.io/badge/LLM-Applications-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MCP-Protocol-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Agent-blue?style=for-the-badge"/>
+#### AI & Emerging Engineering
+<img src="https://img.shields.io/badge/LLM_Applications-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agent-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
-🔥 GitHub Streak
+---
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=xddcode&theme=tokyonight&hide_border=true"/> </div>
+### 🚀 Featured Projects
 
-📈 Contribution Activity
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| <b><a href="https://github.com/xddcode">Free FS</a></b> | 简单易用的开源网盘管理系统 | `Java 25` `Spring Boot` `React` |
+| <b><a href="https://github.com/xddcode">FreeNetDebugger</a></b> | 高性能、跨平台的网络调试与协议分析工具 | `Rust` `Tauri` `React` |
+| <b><a href="https://github.com/xddcode">Primordium (太初)</a></b> | 轻量级、标准化的工业物联设备与数据接入架构 | `Java 25` `IoT` `MQTT` |
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=xddcode&theme=tokyo-night&hide_border=true"/> </div>
+---
 
-🌌 Beyond Code
+### 📊 GitHub Statistics
 
-人一定要疯狂爱上什么东西，
-才不至于被无趣的生活吞没。
+<div align="center">
 
-I enjoy:
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=xddcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xddcode&theme=tokyonight&hide_border=true" width="100%"/>
+      </td>
+    </tr>
+  </table>
 
-Building products
-Exploring new technologies
-Open source
-System architecture
-Turning ideas into reality
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xddcode&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+### 🌌 Beyond Code
+
+> 人一定要疯狂爱上什么东西，才不至于被无趣的生活吞没。
+
+* 🏗️ **Architecting** resilient & scalable systems
+* 🔌 **Connecting** physical hardware with cloud infrastructure
+* 🛠️ **Crafting** clean, developer-friendly open source tools
+* 💡 **Turning** complex technical ideas into elegant reality
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/xddcode">
+  <img src="https://img.shields.io/badge/GitHub-xddcode-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://mp.weixin.qq.com">
+  <img src="https://img.shields.io/badge/WeChat_Official-丁点技术-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
+</a>
+
+</div>
