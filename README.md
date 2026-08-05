@@ -93,12 +93,24 @@
 
 ### 🌌 Beyond Code
 
-> 人一定要疯狂爱上什么东西，才不至于被无趣的生活吞没。
-
-* 🏗️ **Architecting** resilient & scalable systems
-* 🔌 **Connecting** physical hardware with cloud infrastructure
-* 🛠️ **Crafting** clean, developer-friendly open source tools
-* 💡 **Turning** complex technical ideas into elegant reality
+> 人一定要疯狂爱上什么东西，  
+> 才不至于被这无趣的生活吞没。  
+> 我们的肉身只需要很少的粮食就能活，  
+> 而精神需要的是山川、河流与自由。  
+> 怎可一生忙碌，  
+> 只为喂养一副终将衰老的躯壳，  
+> 却从未善待过相伴至死的灵魂？  
+> 别让琐碎磨平眼里的光，  
+> 别让奔波耗尽心底的热，  
+> 去爱清晨的风，  
+> 去爱傍晚的云，  
+> 去奔赴山海，  
+> 去活成自己喜欢的模样。  
+> 别困在鸡毛蒜皮里沉沦，  
+> 别被世俗功利捆绑一生，  
+> 灵魂总要靠一份热爱撑着。  
+> 别等到垂垂老矣，  
+> 才惊觉这一生竟从未真正为自己活过。
 
 ---
 
@@ -108,6 +120,9 @@
 
 <a href="https://github.com/xddcode">
   <img src="https://img.shields.io/badge/GitHub-xddcode-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:xddcodec@gmail.com">
+  <img src="https://img.shields.io/badge/Email-xddcodec@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://mp.weixin.qq.com">
   <img src="https://img.shields.io/badge/WeChat_Official-丁点技术-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
