@@ -87,3 +87,20 @@
 🔥 GitHub Streak
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=xddcode&theme=tokyonight&hide_border=true"/> </div>
+
+📈 Contribution Activity
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=xddcode&theme=tokyo-night&hide_border=true"/> </div>
+
+🌌 Beyond Code
+
+人一定要疯狂爱上什么东西，
+才不至于被无趣的生活吞没。
+
+I enjoy:
+
+Building products
+Exploring new technologies
+Open source
+System architecture
+Turning ideas into reality
