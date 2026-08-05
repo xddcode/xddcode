@@ -60,16 +60,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| <b><a href="https://github.com/xddcode">Free FS</a></b> | 简单易用的开源网盘管理系统 | `Java 25` `Spring Boot` `React` |
-| <b><a href="https://github.com/xddcode">FreeNetDebugger</a></b> | 高性能、跨平台的网络调试与协议分析工具 | `Rust` `Tauri` `React` |
-| <b><a href="https://github.com/xddcode">Primordium (太初)</a></b> | 轻量级、标准化的工业物联设备与数据接入架构 | `Java 25` `IoT` `MQTT` |
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
