@@ -1,31 +1,32 @@
 ## ✨ Life Philosophy
 
-> 人一定要疯狂爱上什么东西，
-> 才不至于被这无趣的生活吞没。
+> A person must find something they truly love,  
+> something worth being obsessed with,  
+> otherwise the ordinary days may slowly consume the soul.
 >
-> 我们的肉身只需要很少的粮食就能活，
-> 而精神需要的是山川、河流与自由。
+> The body needs only a little to survive,  
+> but the spirit longs for mountains, rivers, and freedom.
 >
-> 怎可一生忙碌，
-> 只为喂养一副终将衰老的躯壳，
-> 却从未善待过相伴至死的灵魂？
+> How can we spend a lifetime chasing endless tasks,  
+> only to nourish a body that will eventually grow old,  
+> while forgetting the soul that walks with us until the end?
 >
-> 别让琐碎磨平眼里的光，
-> 别让奔波耗尽心底的热。
+> Never let the trivial things dim the light in your eyes.  
+> Never let endless struggles exhaust the fire in your heart.
 >
-> 去爱清晨的风，
-> 去爱傍晚的云，
-> 去奔赴山海，
-> 去活成自己喜欢的模样。
+> Love the morning breeze.  
+> Love the evening clouds.  
+> Wander through mountains and seas.  
+> Become the person you truly want to be.
 >
-> 别困在鸡毛蒜皮里沉沦，
-> 别被世俗功利捆绑一生。
+> Do not let yourself drown in meaningless details.  
+> Do not let worldly pursuits define your entire life.
 >
-> 灵魂总要靠一份热爱撑着。
+> The soul needs passion to keep moving forward.
 >
-> 别等到垂垂老矣，
-> 才惊觉这一生竟从未真正为自己活过。
+> Do not wait until old age,  
+> only to realize that you never truly lived for yourself.
 
 ---
 
-*愿保持热爱，保持好奇，永远在路上。*
+*Stay curious. Stay passionate. Keep building. Keep exploring.*
