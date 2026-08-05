@@ -83,3 +83,7 @@
 <img src="https://img.shields.io/badge/AI-Agent-blue?style=for-the-badge"/>
 
 </div>
+
+🔥 GitHub Streak
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=xddcode&theme=tokyonight&hide_border=true"/> </div>
