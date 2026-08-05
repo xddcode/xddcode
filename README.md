@@ -80,58 +80,27 @@
 
 ---
 
-### 🌌 Beyond Code
-
 <div align="center">
 
-<svg width="100%" max-width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 12px; }
-    .text-title { font-family: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; font-size: 16px; font-weight: 600; fill: #58a6ff; letter-spacing: 3px; }
-    .text-main { font-family: 'STSong', 'Noto Serif SC', 'Songti SC', serif; font-size: 14px; fill: #8b949e; letter-spacing: 2px; }
-    .highlight-blue { fill: #79c0ff; font-weight: bold; }
-    .highlight-green { fill: #7ee787; font-weight: bold; }
-    .highlight-gold { fill: #d2a8ff; font-style: italic; }
-    .line { stroke: #21262d; stroke-width: 1; stroke-dasharray: 4; }
-  </style>
-
-  <!-- Background Card -->
-  <rect width="100%" height="100%" class="bg" />
-
-  <g transform="translate(40, 45)">
-    <!-- Title -->
-    <text x="320" y="0" text-anchor="middle" class="text-title">🌌 BEYOND CODE</text>
-    <line x1="220" y1="15" x2="420" y2="15" class="line" />
-
-    <!-- Poem Body -->
-    <text x="320" y="55" text-anchor="middle" class="text-main">
-      人一定要疯狂爱上什么东西，才不至于被这无趣的生活吞没。
-    </text>
-    
-    <text x="320" y="90" text-anchor="middle" class="text-main">
-      我们的肉身只需要很少的粮食就能活，而精神需要的是 <tspan class="highlight-blue">山川、河流与自由</tspan>。
-    </text>
-
-    <text x="320" y="130" text-anchor="middle" class="text-main" style="fill: #6e7681;">
-      怎可一生忙碌，只为喂养一副终将衰老的躯壳，却从未善待过相伴至死的灵魂？
-    </text>
-
-    <text x="320" y="175" text-anchor="middle" class="text-main">
-      别让琐碎磨平眼里的光，别让奔波耗尽心底的热，
-    </text>
-    <text x="320" y="205" text-anchor="middle" class="text-main">
-      去爱清晨的风，去爱傍晚的云，<tspan class="highlight-green">去奔赴山海，去活成自己喜欢的模样。</tspan>
-    </text>
-
-    <text x="320" y="250" text-anchor="middle" class="text-main">
-      别困在鸡毛蒜皮里沉沦，别被世俗功利捆绑一生，灵魂总要靠一份热爱撑着。
-    </text>
-
-    <text x="320" y="295" text-anchor="middle" class="text-main">
-      <tspan class="highlight-gold">别等到垂垂老矣，才惊觉这一生竟从未真正为自己活过。</tspan>
-    </text>
-  </g>
-</svg>
+> [!NOTE]
+> ### 🌌 Beyond Code
+> 
+> **人一定要疯狂爱上什么东西，才不至于被这无趣的生活吞没。**  
+> 
+> 我们的肉身只需要很少的粮食就能活，  
+> 而精神需要的是 *山川、河流与自由*。  
+> 
+> *怎可一生忙碌，只为喂养一副终将衰老的躯壳，*  
+> *却从未善待过相伴至死的灵魂？*  
+> 
+> 别让琐碎磨平眼里的光，别让奔波耗尽心底的热，  
+> 去爱清晨的风，去爱傍晚的云，  
+> **去奔赴山海，去活成自己喜欢的模样。**  
+> 
+> 别困在鸡毛蒜皮里沉沦，别被世俗功利捆绑一生，  
+> 灵魂总要靠一份热爱撑着。  
+> 
+> **`别等到垂垂老矣，才惊觉这一生竟从未真正为自己活过。`**
 
 </div>
 
