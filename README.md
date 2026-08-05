@@ -84,27 +84,31 @@
 
 <div align="center">
 
-人一定要疯狂爱上什么东西，  
-才不至于被这无趣的生活吞没。  
+<table width="100%" style="border-collapse: collapse;">
+<tr>
+<td align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 35px 20px;">
 
-我们的肉身只需要很少的粮食就能活，  
-而精神需要的是山川、河流与自由。  
+<p style="font-family: 'Georgia', 'Noto Serif SC', 'Songti SC', serif; color: #8b949e; font-size: 15px; line-height: 2.2; letter-spacing: 1.5px; margin: 0;">
+<span style="font-size: 22px; color: #58a6ff; font-weight: bold;">人</span>一定要疯狂爱上什么东西，<br/>
+才不至于被这无趣的生活吞没。<br/><br/>
+我们的肉身只需要很少的粮食就能活，<br/>
+而精神需要的是<span style="color: #79c0ff;">山川、河流与自由</span>。<br/><br/>
+怎可一生忙碌，<br/>
+只为喂养一副终将衰老的躯壳，<br/>
+却从未善待过相伴至死的灵魂？<br/><br/>
+别让琐碎磨平眼里的光，<br/>
+别让奔波耗尽心底的热，<br/>
+去爱清晨的风，去爱傍晚的云，<br/>
+<span style="color: #d2a8ff; font-style: italic;">去奔赴山海，去活成自己喜欢的模样。</span><br/><br/>
+别困在鸡毛蒜皮里沉沦，<br/>
+别被世俗功利捆绑一生，<br/>
+灵魂总要靠一份热爱撑着。<br/><br/>
+<font color="#e3b341">别等到垂垂老矣，才惊觉这一生竟从未真正为自己活过。</font>
+</p>
 
-怎可一生忙碌，  
-只为喂养一副终将衰老的躯壳，  
-却从未善待过相伴至死的灵魂？  
-
-别让琐碎磨平眼里的光，  
-别让奔波耗尽心底的热，  
-去爱清晨的风，去爱傍晚的云，  
-去奔赴山海，去活成自己喜欢的模样。  
-
-别困在鸡毛蒜皮里沉沦，  
-别被世俗功利捆绑一生，  
-灵魂总要靠一份热爱撑着。  
-
-别等到垂垂老矣，  
-才惊觉这一生竟从未真正为自己活过。  
+</td>
+</tr>
+</table>
 
 </div>
 
