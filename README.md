@@ -12,15 +12,11 @@
 
 </div>
 
-
 # 🛠 Tech Stack
-
 
 <div align="center">
 
-
 ### Languages & Frameworks
-
 
 <img src="https://img.shields.io/badge/Java-21-red?style=for-the-badge&logo=openjdk"/>
 
@@ -36,9 +32,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
 
-
 <br/>
-
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot"/>
 
@@ -48,12 +42,9 @@
 
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
 
-
 <br/><br/>
 
-
 ### Infrastructure & Data
-
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
 
@@ -69,12 +60,9 @@
 
 <img src="https://img.shields.io/badge/EMQX-FF6600?style=for-the-badge"/>
 
-
 <br/><br/>
 
-
 ### Cloud Native & Tools
-
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 
@@ -84,18 +72,14 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 
-
 <br/><br/>
 
-
 ### AI Engineering
-
 
 <img src="https://img.shields.io/badge/LLM-Applications-purple?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/MCP-Protocol-black?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/AI-Agent-blue?style=for-the-badge"/>
-
 
 </div>
