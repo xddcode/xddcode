@@ -65,7 +65,7 @@
     <li>👤 <b>Account:</b> <a href="https://github.com/xddcode">xddcode</a></li>
     <li>🗓️ <b>Member Since:</b> <a href="https://github.com/xddcode?tab=overview&from=2019-01-01&to=2019-12-31">March 2019</a></li>
     <li>💻 <b>Main Technology:</b> Java, IoT</li>
-    <li>🚀 <b>Open Source Focus:</b> <a href="https://github.com/xddcode/free-fs">Free FS</a>, <a href="https://github.com/xddcode/dbx">DBX</a></li>
+    <li>🚀 <b>Open Source Focus:</b> <a href="https://github.com/dromara/free-fs">Free FS</a>, <a href="https://github.com/t8y2/dbx">DBX</a></li>
   </ul>
 </td>
 <td width="60%" align="center">
