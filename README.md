@@ -13,6 +13,10 @@
 </div>
 
 
+🛠 Tech Stack
+Backend
+<p> <img src="https://img.shields.io/badge/Java-21-red?style=for-the-badge&logo=openjdk"/> <img src="https://img.shields.io/badge/SpringBoot-4-6DB33F?style=for-the-badge&logo=springboot"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust"/> </p>
+
 # 👋 Hello World
 
 ```text
