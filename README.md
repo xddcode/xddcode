@@ -6,12 +6,6 @@
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Architect;IoT+Platform+Builder;Open+Source+Creator;Developer+Tools+Enthusiast;Building+Simple+Solutions+for+Complex+Systems"/>
 
-  <p align="center">
-    <a href="https://github.com/xddcode">
-      <img src="https://komarev.com/ghpvc/?username=xddcode&style=flat-square&color=2188ff&label=Profile+Views"/>
-    </a>
-  </p>
-
 </div>
 
 ---
@@ -64,16 +58,21 @@
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=xddcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xddcode&theme=tokyonight&hide_border=true" width="100%"/>
-      </td>
-    </tr>
-  </table>
+<table border="0">
+<tr>
+<td width="40%" valign="center">
+  <ul align="left">
+    <li>👤 <b>Account:</b> <a href="https://github.com/xddcode">xddcode</a></li>
+    <li>🗓️ <b>Member Since:</b> <a href="https://github.com/xddcode?tab=overview&from=2019-01-01&to=2019-12-31">March 2019</a></li>
+    <li>💻 <b>Main Technology:</b> Java, IoT</li>
+    <li>🚀 <b>Open Source Focus:</b> FreeFS, Primordium</li>
+  </ul>
+</td>
+<td width="60%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xddcode&theme=tokyonight&hide_border=true&border_radius=5" width="100%"/>
+</td>
+</tr>
+</table>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xddcode&theme=tokyo-night&hide_border=true" width="100%"/>
 
