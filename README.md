@@ -84,31 +84,30 @@
 
 <div align="center">
 
-<table width="100%" style="border-collapse: collapse;">
-<tr>
-<td align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 35px 20px;">
-
-<p style="font-family: 'Georgia', 'Noto Serif SC', 'Songti SC', serif; color: #8b949e; font-size: 15px; line-height: 2.2; letter-spacing: 1.5px; margin: 0;">
-<span style="font-size: 22px; color: #58a6ff; font-weight: bold;">人</span>一定要疯狂爱上什么东西，<br/>
-才不至于被这无趣的生活吞没。<br/><br/>
-我们的肉身只需要很少的粮食就能活，<br/>
-而精神需要的是<span style="color: #79c0ff;">山川、河流与自由</span>。<br/><br/>
-怎可一生忙碌，<br/>
-只为喂养一副终将衰老的躯壳，<br/>
-却从未善待过相伴至死的灵魂？<br/><br/>
-别让琐碎磨平眼里的光，<br/>
-别让奔波耗尽心底的热，<br/>
-去爱清晨的风，去爱傍晚的云，<br/>
-<span style="color: #d2a8ff; font-style: italic;">去奔赴山海，去活成自己喜欢的模样。</span><br/><br/>
-别困在鸡毛蒜皮里沉沦，<br/>
-别被世俗功利捆绑一生，<br/>
-灵魂总要靠一份热爱撑着。<br/><br/>
-<font color="#e3b341">别等到垂垂老矣，才惊觉这一生竟从未真正为自己活过。</font>
+<p align="center">
+  <span style="color: #58a6ff;">✨ ———— &nbsp;<b>S O U L &nbsp; & &nbsp; F R E E D O M</b> &nbsp; ———— ✨</span>
 </p>
 
-</td>
-</tr>
-</table>
+<p align="center" style="font-family: 'Noto Serif SC', 'Source Han Serif SC', serif; color: #c9d1d9; font-size: 15px; line-height: 2.3; letter-spacing: 2px;">
+人一定要疯狂爱上什么东西，才不至于被这无趣的生活吞没。<br/>
+我们的肉身只需要很少的粮食就能活，而精神需要的是<b>山川、河流与自由</b>。<br/>
+<br/>
+<i>怎可一生忙碌，只为喂养一副终将衰老的躯壳，</i><br/>
+<i>却从未善待过相伴至死的灵魂？</i><br/>
+<br/>
+别让琐碎磨平眼里的光，别让奔波耗尽心底的热，<br/>
+去爱清晨的风，去爱傍晚的云，<br/>
+<span style="background-color: #1f242c; padding: 3px 8px; border-radius: 4px; color: #7ee787;">去奔赴山海，去活成自己喜欢的模样。</span><br/>
+<br/>
+别困在鸡毛蒜皮里沉沦，别被世俗功利捆绑一生，<br/>
+灵魂总要靠一份热爱撑着。<br/>
+<br/>
+<span style="color: #ffa657;">别等到垂垂老矣，才惊觉这一生竟从未真正为自己活过。</span>
+</p>
+
+<p align="center" style="color: #484f58; font-size: 12px; letter-spacing: 4px;">
+✦ ✦ ✦
+</p>
 
 </div>
 
